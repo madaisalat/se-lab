@@ -8,7 +8,11 @@ The application is simplified and deliberately contains bugs.
 
 - The project is implemented in Java 11.
 - The project can be built using [Maven](https://maven.apache.org/).
+<<<<<<< HEAD
 - [JUnit]( https://junit.org/junit5/ ) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
+=======
+- [JUnit](https://junit.org/junit5/) is used for tests, and [Mockito](https://site.mockito.org/) for isolating dependencies.
+>>>>>>> parent of 90edaf5 (space space space space space)
 
 Clone the repository and execute Maven to build the application:
 
